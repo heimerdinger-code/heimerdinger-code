@@ -1,16 +1,24 @@
-## Hi there 👋
+![heimerdinger-code's Avatar](https://github.com/heimerdinger-code.png)
 
-<!--
-**heimerdinger-code/heimerdinger-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm heimerdinger-code 👋
 
-Here are some ideas to get you started:
+I'm a student who is still learning the art of programming—especially in Python.  
+I enjoy reading and discovering new worlds through both code and books.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Journey
+- Currently learning programming and building up my skills.
+- Exploring Python and its endless possibilities.
+- Proud owner of a Holopin badge!  
+  [![Holopin Badge](https://holopin.io/api/user/badge/cmg0wokmy000zjx04bufnj46t/image)](https://holopin.io/user/heimerdinger-code)
+
+## 📚 Favorite Projects
+- [me50/heimerdinger-code](https://github.com/me50/heimerdinger-code)
+- [code50/226823431](https://github.com/code50/226823431)
+
+## 🧠 Fun Fact
+> "And the universe said I love you because you are love."
+
+---
+
+Thanks for stopping by!  
+Feel free to connect, star my repos, or just say hello 👋
