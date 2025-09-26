@@ -9,7 +9,7 @@ I enjoy reading and discovering new worlds through both code and books.
 - Currently learning programming and building up my skills.
 - Exploring Python and its endless possibilities.
 - Proud owner of a Holopin badge!  
-  [![Holopin Badge](https://holopin.io/api/user/badge/cmg0wokmy000zjx04bufnj46t/image)](https://holopin.io/user/heimerdinger-code)
+  ![Hacktoberfest 2025](https://holopin.io/api/user/board?user=cmg0wokmy000zjx04bufnj46t)
 
 ## 📚 Favorite Projects
 - [me50/heimerdinger-code](https://github.com/me50/heimerdinger-code)
